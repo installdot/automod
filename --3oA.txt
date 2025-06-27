@@ -1,0 +1,920 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="98989898_c_SwordMaster_skill_2_unlock" value="1" />
+    <int name="98989898_var_gems" value="0" />
+    <string name="98989898_p10_unlock">True</string>
+    <int name="98989898_c12_skin21" value="1" />
+    <int name="98989898_c12_skin20" value="1" />
+    <int name="98989898_c30_skin8" value="1" />
+    <int name="98989898_c30_skin7" value="1" />
+    <string name="98989898_complete_game_time_0"></string>
+    <int name="98989898_c30_skin6" value="1" />
+    <string name="98989898_c8_unlock">True</string>
+    <int name="98989898_c30_skin1" value="1" />
+    <string name="98989898_complete_game_time_6"></string>
+    <int name="98989898_c30_skin0" value="1" />
+    <int name="98989898_super_hero_in_hero_room" value="19" />
+    <string name="98989898_complete_game_time_5"></string>
+    <int name="98989898_c30_skin5" value="1" />
+    <string name="98989898_complete_game_time_2"></string>
+    <int name="98989898_c12_skin19" value="1" />
+    <int name="98989898_c30_skin4" value="1" />
+    <string name="98989898_complete_game_time_1"></string>
+    <int name="98989898_c12_skin18" value="1" />
+    <int name="98989898_c30_skin3" value="1" />
+    <string name="98989898_complete_game_time_4"></string>
+    <int name="98989898_c12_skin17" value="1" />
+    <int name="98989898_c30_skin2" value="1" />
+    <string name="98989898_complete_game_time_3"></string>
+    <int name="98989898_c7_skin20" value="1" />
+    <int name="98989898_c12_skin16" value="1" />
+    <int name="98989898_c7_skin21" value="1" />
+    <int name="98989898_c12_skin15" value="1" />
+    <int name="98989898_c7_skin22" value="1" />
+    <int name="98989898_c12_skin14" value="1" />
+    <int name="98989898_c7_skin23" value="1" />
+    <int name="98989898_c12_skin13" value="1" />
+    <int name="98989898_c12_skin12" value="1" />
+    <int name="98989898_c12_skin11" value="1" />
+    <int name="98989898_c12_skin10" value="1" />
+    <int name="98989898_c7_skin24" value="1" />
+    <int name="98989898_c_Warlock_skill_0_unlock" value="1" />
+    <string name="98989898_c0_unlock">True</string>
+    <int name="98989898_c_Necromancer_skill_2_unlock" value="1" />
+    <int name="98989898_last_play_version" value="2150" />
+    <string name="98989898_c35_unlock">True</string>
+    <string name="98989898_p32_unlock">True</string>
+    <int name="98989898_c36_level" value="7" />
+    <int name="98989898_c3_level" value="8" />
+    <string name="98989898_p37_unlock">True</string>
+    <int name="98989898_c_Fighter_skill_1_unlock" value="1" />
+    <string name="LastConfigBranch">GP</string>
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="98989898_c_Knight_skill_2_unlock" value="1" />
+    <string name="98989898_c32_unlock">True</string>
+    <int name="98989898_c22_skin1" value="1" />
+    <int name="98989898_c22_skin2" value="1" />
+    <int name="98989898_c22_skin0" value="1" />
+    <int name="98989898_c_Vampire_skill_0_unlock" value="1" />
+    <int name="98989898_c22_skin9" value="1" />
+    <int name="98989898_c22_skin7" value="1" />
+    <int name="98989898_c22_skin8" value="1" />
+    <int name="98989898_c22_skin5" value="1" />
+    <int name="98989898_c22_skin6" value="1" />
+    <int name="98989898_c22_skin3" value="1" />
+    <int name="98989898_c22_skin4" value="1" />
+    <int name="98989898_c7_skin2" value="1" />
+    <int name="98989898_c7_skin3" value="1" />
+    <int name="98989898_c7_skin4" value="1" />
+    <string name="98989898_p4_unlock">True</string>
+    <int name="98989898_c7_skin5" value="1" />
+    <int name="98989898_c7_skin0" value="1" />
+    <int name="98989898_c7_skin1" value="1" />
+    <string name="98989898_c29_unlock">True</string>
+    <int name="98989898_download_save_count" value="1" />
+    <int name="98989898_sk_Druid" value="1" />
+    <string name="98989898_p40_unlock">True</string>
+    <string name="total_enter_game_count_today">9308_1</string>
+    <string name="98989898_p21_unlock">True</string>
+    <int name="98989898_c18_skin0" value="1" />
+    <string name="98989898_p26_unlock">True</string>
+    <string name="98989898_p43_unlock">True</string>
+    <string name="ChillyRoom%20Services%20SDK%20-%20I2%20Language">English</string>
+    <int name="98989898_first_play" value="1" />
+    <string name="98989898_p48_unlock">True</string>
+    <string name="98989898_c13_unlock">True</string>
+    <int name="98989898_c14_level" value="8" />
+    <string name="98989898_p29_unlock">True</string>
+    <int name="98989898_last_recode_enter_ui_title" value="9308" />
+    <string name="98989898_p18_unlock">True</string>
+    <int name="98989898_c_Engineer_skill_2_unlock" value="1" />
+    <string name="98989898_c24_unlock">True</string>
+    <int name="LOCALhas_statistic_data" value="1" />
+    <int name="98989898_c_Miner_skill_0_unlock" value="1" />
+    <int name="98989898_c_Druid_skill_0_unlock" value="1" />
+    <int name="98989898_c_TrapMaster_skill_0_unlock" value="1" />
+    <int name="98989898_c7_skin6" value="1" />
+    <int name="98989898_c7_skin7" value="1" />
+    <int name="98989898_c7_skin8" value="1" />
+    <int name="98989898_c7_skin9" value="1" />
+    <int name="98989898_c26_skin6" value="1" />
+    <int name="98989898_c26_skin5" value="1" />
+    <int name="98989898_c26_skin4" value="1" />
+    <int name="98989898_c26_skin3" value="1" />
+    <int name="98989898_c26_skin2" value="1" />
+    <int name="98989898_c26_skin1" value="1" />
+    <int name="98989898_c26_skin0" value="1" />
+    <int name="98989898_c19_skin0" value="1" />
+    <string name="98989898_p13_unlock">True</string>
+    <string name="98989898_p15_unlock">True</string>
+    <int name="98989898_sk_3QPlayer" value="1" />
+    <int name="98989898_c26_skin9" value="1" />
+    <int name="98989898_c26_skin8" value="1" />
+    <int name="98989898_c26_skin7" value="1" />
+    <string name="SdkStateCache%231">%7B%0A%20%20%22User%22%3A%20%7B%0A%20%20%20%20%22Id%22%3A%2098989898%2C%0A%20%20%20%20%22CreatedAt%22%3A%20%222023-09-24T11%3A52%3A39%2B08%3A00%22%2C%0A%20%20%20%20%22AccountName%22%3A%20null%2C%0A%20%20%20%20%22Email%22%3A%20%22minhnguyenkim222%40gmail.com%22%2C%0A%20%20%20%20%22Phone%22%3A%20%22%2B84886438740%22%2C%0A%20%20%20%20%22IsEmailValidated%22%3A%20true%2C%0A%20%20%20%20%22GooglePlay%22%3A%20%7B%7D%2C%0A%20%20%20%20%22Apple%22%3A%20null%2C%0A%20%20%20%20%22AppleGameCenter%22%3A%20%7B%7D%2C%0A%20%20%20%20%22NativeUserInfo%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22Email%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22LegacyGateway%22%3A%20%7B%0A%20%20%20%20%20%20%22host%22%3A%20%22legacy-save.soulknight.chillyroom.com%22%2C%0A%20%20%20%20%20%20%22token%22%3A%20%22anhhaideptrai%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22PlayerId%22%3A%20110359511%2C%0A%20%20%20%20%22BetaAccess%22%3A%20true%2C%0A%20%20%20%20%22Banned%22%3A%20false%2C%0A%20%20%20%20%22RemainingBanTime%22%3A%200%2C%0A%20%20%20%20%22IsNewUser%22%3A%20false%0A%20%20%7D%2C%0A%20%20%22Session%22%3A%20%7B%0A%20%20%20%20%22Token%22%3A%20%22anhhaideptrai%22%2C%0A%20%20%20%20%22Expire%22%3A%20%222025-07-03T09%3A40%3A05%22%2C%0A%20%20%20%20%22LoginBy%22%3A%20%22Email%22%0A%20%20%7D%0A%7D</string>
+    <int name="98989898_c_Assassin_skill_0_unlock" value="1" />
+    <int name="98989898_c27_level" value="7" />
+    <string name="98989898_c18_unlock">True</string>
+    <string name="98989898_c27_unlock">True</string>
+    <string name="98989898_c16_unlock">True</string>
+    <int name="parse_LoginType" value="1" />
+    <int name="98989898_c15_level" value="8" />
+    <int name="98989898_c_SpecialForces_skill_0_unlock" value="1" />
+    <int name="98989898_c35_level" value="7" />
+    <int name="98989898_c_Robot_skill_2_unlock" value="1" />
+    <string name="98989898_skill_demo_switch">True</string>
+    <int name="98989898_complete_game_level_2" value="0" />
+    <int name="98989898_complete_game_level_3" value="0" />
+    <int name="98989898_complete_game_level_0" value="0" />
+    <int name="98989898_complete_game_level_1" value="0" />
+    <int name="98989898_c28_level" value="7" />
+    <int name="98989898_c3_skin1" value="1" />
+    <int name="98989898_c3_skin0" value="1" />
+    <string name="98989898_p24_unlock">True</string>
+    <int name="98989898_c3_skin5" value="1" />
+    <int name="98989898_c3_skin4" value="1" />
+    <int name="98989898_c3_skin3" value="1" />
+    <int name="98989898_c3_skin2" value="1" />
+    <int name="98989898_c3_skin9" value="1" />
+    <int name="98989898_sk_tdy8e" value="1" />
+    <int name="98989898_c3_skin8" value="1" />
+    <string name="98989898_p9_unlock">True</string>
+    <int name="98989898_c3_skin7" value="1" />
+    <int name="98989898_c3_skin6" value="1" />
+    <int name="98989898_c27_skin7" value="1" />
+    <int name="98989898_c27_skin6" value="1" />
+    <int name="98989898_c22_level" value="7" />
+    <int name="98989898_c27_skin8" value="1" />
+    <int name="98989898_c_Miner_skill_2_unlock" value="1" />
+    <int name="98989898_c27_skin3" value="1" />
+    <int name="98989898_c27_skin2" value="1" />
+    <int name="98989898_c27_skin5" value="1" />
+    <int name="98989898_c27_skin4" value="1" />
+    <int name="98989898_complete_game_level_6" value="0" />
+    <int name="98989898_c27_skin1" value="1" />
+    <int name="98989898_complete_game_level_4" value="0" />
+    <int name="98989898_c27_skin0" value="1" />
+    <int name="98989898_complete_game_level_5" value="0" />
+    <int name="98989898_c2_skin7" value="1" />
+    <int name="98989898_c23_level" value="7" />
+    <int name="98989898_c2_skin8" value="1" />
+    <int name="98989898_has_season_data" value="1" />
+    <int name="98989898_c2_skin9" value="1" />
+    <int name="98989898_c2_skin3" value="1" />
+    <int name="98989898_c_Officer_skill_1_unlock" value="1" />
+    <int name="98989898_general_random_seed" value="255917596" />
+    <int name="98989898_c2_skin4" value="1" />
+    <int name="98989898_c2_skin5" value="1" />
+    <int name="98989898_c2_skin6" value="1" />
+    <int name="98989898_c2_skin0" value="1" />
+    <int name="98989898_c2_skin1" value="1" />
+    <int name="98989898_c_Priest_skill_2_unlock" value="1" />
+    <int name="98989898_c2_skin2" value="1" />
+    <int name="98989898_c26_skin10" value="1" />
+    <int name="98989898_c_Paladin_skill_2_unlock" value="1" />
+    <string name="LastGatewaySvrIP_Port">bGVnYWN5LXNhdmUuc291bGtuaWdodC5jaGlsbHlyb29tLmNvbV80NDM%3D</string>
+    <int name="98989898_c_Elves_skill_2_unlock" value="1" />
+    <int name="98989898_sk_bigmouth" value="1" />
+    <int name="98989898_c19_level" value="7" />
+    <int name="98989898_c_Knight_skill_0_unlock" value="1" />
+    <int name="98989898_c_Mage_skill_2_unlock" value="1" />
+    <int name="98989898_c34_skin0" value="1" />
+    <int name="98989898_c_Ninja_skill_0_unlock" value="1" />
+    <int name="98989898_c34_skin1" value="1" />
+    <int name="98989898_c15_skin10" value="1" />
+    <int name="98989898_c15_skin11" value="1" />
+    <int name="98989898_sk_SKGIFT" value="1" />
+    <int name="98989898_c15_skin14" value="1" />
+    <int name="98989898_c15_skin15" value="1" />
+    <int name="98989898_c15_skin12" value="1" />
+    <int name="98989898_c15_skin13" value="1" />
+    <int name="98989898_c15_skin18" value="1" />
+    <int name="98989898_c34_skin2" value="1" />
+    <int name="98989898_c15_skin19" value="1" />
+    <int name="98989898_c34_skin3" value="1" />
+    <int name="98989898_c15_skin16" value="1" />
+    <int name="98989898_c34_skin4" value="1" />
+    <int name="98989898_c15_skin17" value="1" />
+    <int name="LOCALhas_item_data" value="1" />
+    <int name="98989898_c4_skin10" value="1" />
+    <int name="98989898_c31_level" value="7" />
+    <int name="98989898_c4_skin11" value="1" />
+    <int name="98989898_c4_skin12" value="1" />
+    <int name="98989898_sk_wierd" value="1" />
+    <int name="98989898_c4_skin13" value="1" />
+    <int name="98989898_c4_skin14" value="1" />
+    <int name="98989898_c4_skin15" value="1" />
+    <int name="98989898_c4_skin16" value="1" />
+    <int name="98989898_c4_skin17" value="1" />
+    <int name="98989898_c4_skin18" value="1" />
+    <int name="98989898_c35_skin3" value="1" />
+    <int name="98989898_reborn_card" value="1" />
+    <string name="LOCALfire_next_gene_time2">1750941496</string>
+    <int name="98989898_c4_skin19" value="1" />
+    <int name="98989898_c35_skin4" value="1" />
+    <int name="98989898_c35_skin1" value="1" />
+    <int name="98989898_c35_skin2" value="1" />
+    <int name="98989898_c35_skin0" value="1" />
+    <int name="98989898_c30_level" value="7" />
+    <int name="98989898_c4_skin20" value="1" />
+    <int name="98989898_c_Warliege_skill_1_unlock" value="1" />
+    <int name="98989898_c1_skin23" value="1" />
+    <int name="98989898_c1_skin22" value="1" />
+    <int name="98989898_c1_skin25" value="1" />
+    <int name="98989898_c1_skin24" value="1" />
+    <int name="98989898_c1_skin21" value="1" />
+    <int name="98989898_c1_skin20" value="1" />
+    <int name="98989898_c_Viking_skill_0_unlock" value="1" />
+    <int name="98989898_sk_garden" value="1" />
+    <int name="98989898_c23_skin7" value="1" />
+    <int name="98989898_c23_skin6" value="1" />
+    <int name="98989898_c23_skin9" value="1" />
+    <int name="98989898_c23_skin8" value="1" />
+    <string name="98989898_p16_unlock">True</string>
+    <int name="98989898_c23_skin3" value="1" />
+    <int name="98989898_c23_skin2" value="1" />
+    <int name="98989898_c23_skin5" value="1" />
+    <int name="98989898_c23_skin4" value="1" />
+    <int name="98989898_c36_skin0" value="1" />
+    <int name="98989898_c1_skin19" value="1" />
+    <int name="98989898_c36_skin1" value="1" />
+    <int name="98989898_c23_skin1" value="1" />
+    <int name="98989898_c36_skin2" value="1" />
+    <int name="98989898_c23_skin0" value="1" />
+    <int name="98989898_c36_skin3" value="1" />
+    <int name="LastLoginType" value="4" />
+    <int name="98989898_c1_skin16" value="1" />
+    <int name="98989898_c36_skin4" value="1" />
+    <int name="98989898_c1_skin15" value="1" />
+    <int name="98989898_c1_skin18" value="1" />
+    <int name="98989898_c1_skin17" value="1" />
+    <string name="98989898_c6_unlock">True</string>
+    <int name="98989898_c24_level" value="7" />
+    <int name="98989898_c32_level" value="7" />
+    <int name="98989898_c_Ranger_skill_1_unlock" value="1" />
+    <string name="cloudSaveId">GP_98989898</string>
+    <int name="98989898_c1_skin27" value="1" />
+    <int name="98989898_c1_skin26" value="1" />
+    <int name="98989898_c_Alchemist_skill_0_unlock" value="1" />
+    <string name="98989898_p2_unlock">True</string>
+    <string name="last_account_id">98989898</string>
+    <int name="98989898_c_Mage_skill_0_unlock" value="1" />
+    <string name="FrequentCheckCache_LoginTag">%5B%222025-06-26T17%3A40%3A05.769875%2B08%3A00%22%5D</string>
+    <int name="98989898_c28_skin5" value="1" />
+    <int name="98989898_c28_skin6" value="1" />
+    <int name="98989898_c_Taoist_skill_1_unlock" value="1" />
+    <int name="98989898_c28_skin7" value="1" />
+    <int name="98989898_c28_skin1" value="1" />
+    <int name="98989898_c28_skin2" value="1" />
+    <int name="98989898_c28_skin3" value="1" />
+    <int name="98989898_c28_skin4" value="1" />
+    <string name="LastConfigVersion">7.3.0</string>
+    <int name="98989898_c28_skin0" value="1" />
+    <string name="98989898_p27_unlock">True</string>
+    <string name="98989898_RedDotTree_SocialPromote">SocialPromote%2C1%2C%2CSocialBtn%2C1%2CCanvas%2Ftitle_scene%2Fbutton_social%2C-15.8%7C-14.57%2C</string>
+    <string name="98989898_p42_unlock">True</string>
+    <string name="98989898_MallJumpTrackingData">%7B%0A%20%20%20%20%22savedVersion%22%3A%20%227.3.0%22%2C%0A%20%20%20%20%22trackingRecords%22%3A%20%5B%5D%2C%0A%20%20%20%20%22conditionProgressList%22%3A%20%5B%5D%0A%7D</string>
+    <int name="98989898_c1_skin12" value="1" />
+    <int name="98989898_c1_skin11" value="1" />
+    <string name="98989898_c11_unlock">True</string>
+    <int name="98989898_c1_skin14" value="1" />
+    <string name="98989898_p46_unlock">True</string>
+    <int name="98989898_c1_skin13" value="1" />
+    <int name="98989898_enter_ui_title_daily" value="1" />
+    <int name="98989898_c1_skin10" value="1" />
+    <int name="98989898_sk_flowers" value="1" />
+    <string name="98989898_c22_unlock">True</string>
+    <int name="98989898_furniture_safe_level" value="5" />
+    <string name="98989898_c33_unlock">True</string>
+    <int name="98989898_c_Beheaded_skill_0_unlock" value="1" />
+    <string name="98989898_c19_unlock">True</string>
+    <int name="98989898_c_Druid_skill_2_unlock" value="1" />
+    <int name="98989898_c_Robot_skill_1_unlock" value="1" />
+    <int name="98989898_c_Officer_skill_2_unlock" value="1" />
+    <int name="98989898_c22_skin10" value="1" />
+    <int name="Screenmanager%20Resolution%20Width" value="1280" />
+    <int name="98989898_c_Paladin_skill_0_unlock" value="1" />
+    <int name="font_setting_value" value="0" />
+    <int name="98989898_c_Airbender_skill_1_unlock" value="1" />
+    <string name="98989898_tutorial_end_time">638641411795780000</string>
+    <string name="98989898_p35_unlock">True</string>
+    <int name="98989898_c25_skin1" value="1" />
+    <int name="98989898_c25_skin0" value="1" />
+    <int name="98989898_c25_skin3" value="1" />
+    <int name="98989898_c25_skin2" value="1" />
+    <int name="98989898_c_Werewolf_skill_2_unlock" value="1" />
+    <int name="98989898_c25_skin5" value="1" />
+    <int name="98989898_c25_skin4" value="1" />
+    <int name="98989898_c25_skin7" value="1" />
+    <int name="98989898_c25_skin6" value="1" />
+    <int name="98989898_has_mall_reload_data" value="1" />
+    <int name="98989898_c25_skin9" value="1" />
+    <int name="98989898_c_CostumePrince_skill_0_unlock" value="1" />
+    <int name="98989898_c25_skin8" value="1" />
+    <int name="98989898_has_item_data" value="1" />
+    <string name="98989898_complete_game_w1_6"></string>
+    <string name="98989898_c2_unlock">True</string>
+    <int name="98989898_c_AiGirl_skill_0_unlock" value="1" />
+    <string name="98989898_complete_game_w1_4"></string>
+    <string name="98989898_complete_game_w1_5"></string>
+    <string name="98989898_p7_unlock">True</string>
+    <string name="98989898_complete_game_w1_2"></string>
+    <string name="98989898_complete_game_w1_3"></string>
+    <string name="98989898_complete_game_w1_0"></string>
+    <string name="98989898_complete_game_w1_1"></string>
+    <int name="98989898_c_Assassin_skill_1_unlock" value="1" />
+    <int name="98989898_c37_level" value="7" />
+    <int name="98989898_c11_skin17" value="1" />
+    <int name="98989898_c11_skin16" value="1" />
+    <int name="98989898_c11_skin19" value="1" />
+    <int name="98989898_c11_skin18" value="1" />
+    <int name="98989898_c11_skin13" value="1" />
+    <int name="98989898_c11_skin12" value="1" />
+    <int name="98989898_c11_skin15" value="1" />
+    <int name="98989898_c11_skin14" value="1" />
+    <int name="98989898_c11_skin11" value="1" />
+    <int name="98989898_c11_skin10" value="1" />
+    <string name="98989898_p11_unlock">True</string>
+    <string name="LOCALfire_gene_current2">5%2C1</string>
+    <int name="98989898_c11_skin20" value="1" />
+    <int name="98989898_c11_skin22" value="1" />
+    <int name="98989898_c11_skin21" value="1" />
+    <int name="98989898_sk_SKback2023" value="1" />
+    <int name="98989898_c_Astrologist_skill_0_unlock" value="1" />
+    <string name="98989898_retired_knight_got_ad_item_time">05%2F19%2F2025%2000%3A00%3A00</string>
+    <int name="98989898_c_Joker_skill_0_unlock" value="1" />
+    <int name="98989898_sk_miao" value="1" />
+    <int name="98989898_c13_skin20" value="1" />
+    <int name="98989898_c13_skin21" value="1" />
+    <int name="98989898_c13_skin22" value="1" />
+    <int name="98989898_c13_skin23" value="1" />
+    <int name="98989898_c13_skin24" value="1" />
+    <int name="98989898_c13_skin25" value="1" />
+    <string name="98989898_c25_unlock">True</string>
+    <int name="98989898_c_TrapMaster_skill_1_unlock" value="1" />
+    <string name="98989898_c14_unlock">True</string>
+    <int name="98989898_c_Vampire_skill_2_unlock" value="1" />
+    <int name="98989898_c13_skin10" value="1" />
+    <int name="98989898_c13_skin11" value="1" />
+    <int name="98989898_c13_skin12" value="1" />
+    <int name="98989898_c13_skin13" value="1" />
+    <int name="98989898_c13_skin14" value="1" />
+    <int name="98989898_c13_skin15" value="1" />
+    <int name="98989898_c13_skin16" value="1" />
+    <int name="98989898_c13_skin17" value="1" />
+    <int name="98989898_c13_skin18" value="1" />
+    <string name="98989898_complete_game_w3_4"></string>
+    <int name="98989898_c13_skin19" value="1" />
+    <int name="98989898_c_Bard_skill_0_unlock" value="1" />
+    <string name="98989898_complete_game_w3_5"></string>
+    <string name="UsedAccounts%231">%5B%0A%20%20%22minhnguyenkim222%40gmail.com%22%0A%5D</string>
+    <string name="98989898_complete_game_w3_2"></string>
+    <string name="98989898_complete_game_w3_3"></string>
+    <int name="98989898_c6_skin11" value="1" />
+    <int name="98989898_c21_skin0" value="1" />
+    <int name="98989898_c6_skin10" value="1" />
+    <string name="98989898_complete_game_w3_6"></string>
+    <int name="98989898_c6_skin15" value="1" />
+    <int name="98989898_c6_skin14" value="1" />
+    <int name="98989898_c6_skin13" value="1" />
+    <int name="98989898_c6_skin12" value="1" />
+    <int name="98989898_c6_skin19" value="1" />
+    <string name="98989898_complete_game_w3_0"></string>
+    <int name="98989898_c6_skin18" value="1" />
+    <string name="98989898_p5_unlock">True</string>
+    <string name="98989898_complete_game_w3_1"></string>
+    <int name="98989898_c6_skin17" value="1" />
+    <string name="_movedLocalDataIds_">GP_98989898%2C</string>
+    <int name="98989898_c6_skin16" value="1" />
+    <int name="98989898_has_tutorial" value="1" />
+    <int name="98989898_c20_skin0" value="1" />
+    <string name="unity.cloud_userid">2c924e9dd11775d14a150129860dc745</string>
+    <int name="98989898_c6_skin21" value="1" />
+    <int name="98989898_c6_skin20" value="1" />
+    <int name="98989898_c_ArcaneKnight_skill_0_unlock" value="1" />
+    <int name="98989898_c_Priest_skill_0_unlock" value="1" />
+    <string name="98989898_c36_unlock">True</string>
+    <string name="98989898_p33_unlock">True</string>
+    <string name="98989898_p38_unlock">True</string>
+    <int name="98989898_magic_stone_index" value="0" />
+    <int name="98989898_furniture_plant_level" value="5" />
+    <int name="98989898_sk_super5" value="1" />
+    <int name="98989898_room_level" value="0" />
+    <int name="98989898_sk_SKNIGHT" value="1" />
+    <int name="98989898_c_CostumePrince_skill_2_unlock" value="1" />
+    <int name="98989898_c_Alchemist_skill_2_unlock" value="1" />
+    <int name="98989898_cumulative_consume_gems" value="949018" />
+    <string name="98989898_p22_unlock">True</string>
+    <string name="98989898_p0_unlock">True</string>
+    <string name="98989898_p44_unlock">True</string>
+    <string name="unity.player_session_count">1</string>
+    <string name="98989898_c20_unlock">True</string>
+    <string name="98989898_c9_unlock">True</string>
+    <int name="98989898_has_statistic_data" value="1" />
+    <string name="98989898_c31_unlock">True</string>
+    <int name="98989898_game_times" value="1442" />
+    <int name="hasClearLocalIdGPV4" value="1" />
+    <string name="98989898_lastSocialPromoteId">9cef2a10-d536-42ff-b55c-ce2f4b815d1a</string>
+    <string name="98989898_set_up_skin">True</string>
+    <int name="98989898_c_Doctor_skill_1_unlock" value="1" />
+    <int name="98989898_c16_skin4" value="1" />
+    <int name="98989898_c16_skin5" value="1" />
+    <int name="98989898_c16_skin2" value="1" />
+    <int name="98989898_c3_skin24" value="1" />
+    <int name="98989898_c16_skin3" value="1" />
+    <int name="98989898_c3_skin23" value="1" />
+    <int name="98989898_c16_skin0" value="1" />
+    <int name="98989898_c3_skin22" value="1" />
+    <int name="98989898_c16_skin1" value="1" />
+    <int name="98989898_last_play_time_with_network_time" value="9308" />
+    <int name="98989898_c_Viking_skill_2_unlock" value="1" />
+    <int name="98989898_c3_skin21" value="1" />
+    <int name="98989898_c3_skin20" value="1" />
+    <int name="98989898_c29_skin2" value="1" />
+    <int name="98989898_c29_skin3" value="1" />
+    <int name="98989898_c29_skin0" value="1" />
+    <int name="98989898_c29_skin1" value="1" />
+    <int name="98989898_c29_skin6" value="1" />
+    <int name="98989898_c29_skin7" value="1" />
+    <int name="98989898_c29_skin4" value="1" />
+    <int name="98989898_c29_skin5" value="1" />
+    <string name="98989898_p14_unlock">True</string>
+    <int name="98989898_c_Astrologist_skill_1_unlock" value="1" />
+    <int name="98989898_c16_skin8" value="1" />
+    <int name="98989898_c3_skin19" value="1" />
+    <int name="98989898_c16_skin9" value="1" />
+    <int name="98989898_c3_skin18" value="1" />
+    <int name="98989898_c16_skin6" value="1" />
+    <int name="98989898_c3_skin17" value="1" />
+    <int name="98989898_c16_skin7" value="1" />
+    <string name="98989898_cloudSaveId">GP_98989898</string>
+    <int name="98989898_c12_level" value="7" />
+    <string name="98989898_is_wave_machine_upgraded">True</string>
+    <int name="Screenmanager%20Resolution%20Height" value="720" />
+    <int name="98989898_first_in_room" value="836" />
+    <int name="HasMovedData_98989898" value="1" />
+    <string name="98989898_c4_unlock">True</string>
+    <int name="98989898_sk_weapons" value="1" />
+    <int name="LOCALhas_season_data" value="1" />
+    <string name="98989898_normal_certificate_6">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A3%2C%22characterSkinIdx%22%3A23%2C%22petIndex%22%3A47%2C%22followerId%22%3A%22%22%2C%22skillIndex%22%3A1%2C%22date%22%3A%2225-06-22%22%2C%22killCount%22%3A239%2C%22gainCoin%22%3A366%2C%22dealDamage%22%3A3220%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22isExtendedLevel%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B1018%2C4%2C2134%5D%2C%22buffs%22%3A%5B17%2C2101%2C7%2C2%2C6%5D%2C%22additionBuffs%22%3A%5B2172%2C1002%2C38%2C46%5D%2C%22drinks%22%3A%5B%22drink_tea%22%5D%2C%22weaponNames%22%3A%5B%22weapon_094%22%2C%22weapon_174%22%5D%2C%22weaponItems%22%3A%5B%22%22%2C%22%22%5D%2C%22weaponSkins%22%3A%5B0%2C0%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%2200%3A17%3A46%22%2C%22magicStoneIdx%22%3A6%2C%22version%22%3A%22%22%7D</string>
+    <int name="98989898_c17_level" value="7" />
+    <string name="98989898_normal_certificate_0">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A2%2C%22characterIdx%22%3A4%2C%22characterSkinIdx%22%3A3%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22LvQiLing%22%2C%22skillIndex%22%3A0%2C%22date%22%3A%2225-06-24%22%2C%22killCount%22%3A440%2C%22gainCoin%22%3A779%2C%22dealDamage%22%3A17399%2C%22get%22%3Afalse%2C%22isBadass%22%3Atrue%2C%22isExtendedLevel%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B8%5D%2C%22buffs%22%3A%5B29%2C1%2C40%2C9%2C2101%5D%2C%22additionBuffs%22%3A%5B1020%5D%2C%22drinks%22%3A%5B%5D%2C%22weaponNames%22%3A%5B%22weapon_mythic_18%22%2C%22weapon_244%22%5D%2C%22weaponItems%22%3A%5B%22%22%2C%22%22%5D%2C%22weaponSkins%22%3A%5B0%2C0%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%2200%3A23%3A09%22%2C%22magicStoneIdx%22%3A0%2C%22version%22%3A%22%22%7D</string>
+    <int name="98989898_sk_byetiger" value="1" />
+    <string name="98989898_normal_certificate_1">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A3%2C%22characterSkinIdx%22%3A8%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22%22%2C%22skillIndex%22%3A0%2C%22date%22%3A%22%22%2C%22killCount%22%3A0%2C%22gainCoin%22%3A0%2C%22dealDamage%22%3A0%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22isExtendedLevel%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B%5D%2C%22buffs%22%3A%5B%5D%2C%22additionBuffs%22%3A%5B%5D%2C%22drinks%22%3A%5B%5D%2C%22weaponNames%22%3A%5B%5D%2C%22weaponItems%22%3A%5B%5D%2C%22weaponSkins%22%3A%5B%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%220%3A18%3A41%22%2C%22magicStoneIdx%22%3A1%2C%22version%22%3A%22%22%7D</string>
+    <string name="98989898_normal_certificate_2">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A24%2C%22characterSkinIdx%22%3A8%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22%22%2C%22skillIndex%22%3A1%2C%22date%22%3A%2225-06-21%22%2C%22killCount%22%3A467%2C%22gainCoin%22%3A752%2C%22dealDamage%22%3A22394%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22isExtendedLevel%22%3Atrue%2C%22battleFactors%22%3A%5B3001%5D%2C%22characterBuffs%22%3A%5B34%5D%2C%22buffs%22%3A%5B23%2C12%2C3%2C41%2C14%2C24%2C32%5D%2C%22additionBuffs%22%3A%5B2140%2C2170%5D%2C%22drinks%22%3A%5B%22drink_jade_elixir%22%5D%2C%22weaponNames%22%3A%5B%22weapon_128%22%2C%22weapon_363%22%5D%2C%22weaponItems%22%3A%5B%22%22%2C%22%22%5D%2C%22weaponSkins%22%3A%5B0%2C0%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%2200%3A35%3A26%22%2C%22magicStoneIdx%22%3A2%2C%22version%22%3A%22%22%7D</string>
+    <string name="98989898_normal_certificate_3">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A2%2C%22characterIdx%22%3A22%2C%22characterSkinIdx%22%3A10%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22LvQiLing%22%2C%22skillIndex%22%3A2%2C%22date%22%3A%2225-06-24%22%2C%22killCount%22%3A593%2C%22gainCoin%22%3A1800%2C%22dealDamage%22%3A32364%2C%22get%22%3Afalse%2C%22isBadass%22%3Atrue%2C%22isExtendedLevel%22%3Atrue%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B1009%5D%2C%22buffs%22%3A%5B18%2C2106%2C34%2C17%2C8%2C20%2C6%5D%2C%22additionBuffs%22%3A%5B2170%5D%2C%22drinks%22%3A%5B%22drink_redbull%22%5D%2C%22weaponNames%22%3A%5B%22weapon_345%22%2C%22weapon_361%22%5D%2C%22weaponItems%22%3A%5B%22wi13_through%22%2C%22%22%5D%2C%22weaponSkins%22%3A%5B1%2C0%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%2200%3A32%3A42%22%2C%22magicStoneIdx%22%3A3%2C%22version%22%3A%22%22%7D</string>
+    <string name="98989898_normal_certificate_4">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A2%2C%22characterIdx%22%3A0%2C%22characterSkinIdx%22%3A29%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22LvQiLing%22%2C%22skillIndex%22%3A2%2C%22date%22%3A%2225-06-24%22%2C%22killCount%22%3A522%2C%22gainCoin%22%3A1326%2C%22dealDamage%22%3A18216%2C%22get%22%3Afalse%2C%22isBadass%22%3Atrue%2C%22isExtendedLevel%22%3Afalse%2C%22battleFactors%22%3A%5B2%5D%2C%22characterBuffs%22%3A%5B6%5D%2C%22buffs%22%3A%5B30%2C11%2C8%2C29%2C24%2C17%5D%2C%22additionBuffs%22%3A%5B1020%5D%2C%22drinks%22%3A%5B%22drink_coconut%22%2C%22drink_tea%22%5D%2C%22weaponNames%22%3A%5B%22weapon_mythic_18%22%2C%22weapon_290%22%5D%2C%22weaponItems%22%3A%5B%22%22%2C%22wi2_gaussiancoil_smg_2%22%5D%2C%22weaponSkins%22%3A%5B0%2C0%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%2200%3A21%3A31%22%2C%22magicStoneIdx%22%3A4%2C%22version%22%3A%22%22%7D</string>
+    <string name="98989898_normal_certificate_5">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A1%2C%22characterIdx%22%3A22%2C%22characterSkinIdx%22%3A1%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22%22%2C%22skillIndex%22%3A0%2C%22date%22%3A%2225-06-19%22%2C%22killCount%22%3A264%2C%22gainCoin%22%3A454%2C%22dealDamage%22%3A11226%2C%22get%22%3Afalse%2C%22isBadass%22%3Afalse%2C%22isExtendedLevel%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B1009%5D%2C%22buffs%22%3A%5B2106%2C29%2C22%2C2145%2C2146%5D%2C%22additionBuffs%22%3A%5B%5D%2C%22drinks%22%3A%5B%22drink_sea_cucumber%22%2C%22drink_garlic_juice%22%2C%22drink_coffee%22%5D%2C%22weaponNames%22%3A%5B%22weapon_init_airbenderxx%22%2C%22weapon_138%22%2C%22weapon_376%22%5D%2C%22weaponItems%22%3A%5B%22%22%2C%22%22%2C%22%22%5D%2C%22weaponSkins%22%3A%5B0%2C0%2C0%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%2200%3A25%3A35%22%2C%22magicStoneIdx%22%3A5%2C%22version%22%3A%22%22%7D</string>
+    <int name="98989898_c_Elves_skill_1_unlock" value="1" />
+    <int name="98989898_c_ArcaneKnight_skill_1_unlock" value="1" />
+    <int name="98989898_c24_skin11" value="1" />
+    <int name="98989898_c24_skin10" value="1" />
+    <int name="98989898_c24_skin13" value="1" />
+    <int name="98989898_c24_skin12" value="1" />
+    <int name="98989898_c5_skin7" value="1" />
+    <int name="98989898_c5_skin6" value="1" />
+    <int name="98989898_c5_skin5" value="1" />
+    <int name="98989898_c5_skin4" value="1" />
+    <int name="98989898_c5_skin3" value="1" />
+    <int name="98989898_c5_skin2" value="1" />
+    <int name="98989898_c5_skin1" value="1" />
+    <int name="98989898_c5_skin0" value="1" />
+    <string name="open_bgm">True</string>
+    <int name="98989898_c_Werewolf_skill_0_unlock" value="1" />
+    <string name="98989898_normal_certificate_br">%7B%22gameMode%22%3A0%2C%22cellarPassLevel%22%3A2%2C%22characterIdx%22%3A10%2C%22characterSkinIdx%22%3A6%2C%22petIndex%22%3A0%2C%22followerId%22%3A%22%22%2C%22skillIndex%22%3A0%2C%22date%22%3A%2221-07-17%22%2C%22killCount%22%3A0%2C%22gainCoin%22%3A0%2C%22dealDamage%22%3A0%2C%22get%22%3Afalse%2C%22isBadass%22%3Atrue%2C%22isExtendedLevel%22%3Afalse%2C%22battleFactors%22%3A%5B%5D%2C%22characterBuffs%22%3A%5B%5D%2C%22buffs%22%3A%5B%5D%2C%22additionBuffs%22%3A%5B%5D%2C%22drinks%22%3A%5B%5D%2C%22weaponNames%22%3A%5B%22weapon_221%22%2C%22weapon_266%22%2C%22%22%5D%2C%22weaponItems%22%3A%5B%5D%2C%22weaponSkins%22%3A%5B%5D%2C%22weaponEvolutionStatus%22%3A%5B%5D%2C%22costTime%22%3A%220%3A14%3A14%22%2C%22magicStoneIdx%22%3A0%2C%22version%22%3A%22%22%2C%22isPureMode%22%3Afalse%7D</string>
+    <int name="98989898_c5_skin9" value="1" />
+    <int name="98989898_c5_skin8" value="1" />
+    <int name="98989898_c20_level" value="7" />
+    <int name="98989898_furniture_fish_chips" value="5" />
+    <int name="98989898_last_day_index" value="0" />
+    <int name="98989898_last_gems" value="82813" />
+    <int name="98989898_c_Warliege_skill_0_unlock" value="1" />
+    <int name="98989898_c16_skin12" value="1" />
+    <int name="98989898_c24_skin0" value="1" />
+    <int name="98989898_c16_skin11" value="1" />
+    <int name="98989898_c16_skin10" value="1" />
+    <int name="98989898_c16_skin16" value="1" />
+    <int name="98989898_c24_skin4" value="1" />
+    <int name="98989898_c16_skin15" value="1" />
+    <int name="98989898_c24_skin3" value="1" />
+    <int name="98989898_c16_skin14" value="1" />
+    <int name="98989898_c24_skin2" value="1" />
+    <int name="98989898_c16_skin13" value="1" />
+    <int name="98989898_c24_skin1" value="1" />
+    <int name="98989898_c24_skin8" value="1" />
+    <int name="98989898_c16_skin19" value="1" />
+    <int name="98989898_c24_skin7" value="1" />
+    <int name="98989898_c16_skin18" value="1" />
+    <int name="98989898_c24_skin6" value="1" />
+    <int name="98989898_c16_skin17" value="1" />
+    <int name="98989898_c24_skin5" value="1" />
+    <int name="98989898_c8_skin11" value="1" />
+    <int name="98989898_c8_skin10" value="1" />
+    <int name="98989898_c8_skin13" value="1" />
+    <int name="98989898_c8_skin12" value="1" />
+    <int name="98989898_c24_skin9" value="1" />
+    <int name="98989898_c1_level" value="7" />
+    <int name="98989898_c8_skin19" value="1" />
+    <int name="98989898_c8_skin18" value="1" />
+    <int name="98989898_c8_skin15" value="1" />
+    <int name="98989898_c8_skin14" value="1" />
+    <int name="98989898_c8_skin17" value="1" />
+    <int name="98989898_c8_skin16" value="1" />
+    <int name="98989898_c3_skin16" value="1" />
+    <int name="98989898_cumulative_gems" value="208599" />
+    <int name="98989898_c3_skin15" value="1" />
+    <int name="98989898_c3_skin14" value="1" />
+    <int name="98989898_c3_skin13" value="1" />
+    <int name="98989898_c3_skin12" value="1" />
+    <int name="98989898_c3_skin11" value="1" />
+    <int name="98989898_c3_skin10" value="1" />
+    <int name="98989898_c16_skin20" value="1" />
+    <int name="98989898_total_game_time" value="0" />
+    <int name="98989898_c8_skin20" value="1" />
+    <int name="98989898_c0_skin21" value="1" />
+    <int name="98989898_c0_skin22" value="1" />
+    <int name="98989898_c0_skin23" value="1" />
+    <int name="98989898_c0_skin24" value="1" />
+    <string name="unity.player_sessionid">257646340021856857</string>
+    <int name="98989898_c0_skin20" value="1" />
+    <int name="98989898_c_SwordMaster_skill_1_unlock" value="1" />
+    <string name="98989898_complete_game_name_3">Character0_name_skin0</string>
+    <int name="98989898_has_weapon_evolution_data" value="1" />
+    <string name="98989898_complete_game_name_4">Character0_name_skin0</string>
+    <string name="98989898_complete_game_name_5">Character0_name_skin0</string>
+    <string name="98989898_complete_game_name_6">Character0_name_skin0</string>
+    <int name="98989898_c33_skin5" value="1" />
+    <int name="98989898_c33_skin6" value="1" />
+    <int name="98989898_c33_skin3" value="1" />
+    <int name="98989898_c33_skin4" value="1" />
+    <int name="98989898_c0_skin18" value="1" />
+    <int name="98989898_c33_skin1" value="1" />
+    <int name="98989898_c0_skin19" value="1" />
+    <int name="98989898_c33_skin2" value="1" />
+    <int name="98989898_c33_skin0" value="1" />
+    <int name="98989898_c0_skin14" value="1" />
+    <int name="98989898_c0_skin15" value="1" />
+    <string name="98989898_complete_game_name_0">Character0_name_skin0</string>
+    <int name="98989898_c0_skin16" value="1" />
+    <string name="98989898_complete_game_name_1">Character0_name_skin0</string>
+    <int name="98989898_c0_skin17" value="1" />
+    <string name="98989898_complete_game_name_2">Character0_name_skin0</string>
+    <int name="98989898_has_misc_data" value="1" />
+    <int name="98989898_c0_skin10" value="1" />
+    <string name="98989898_p47_unlock">True</string>
+    <int name="98989898_c0_skin11" value="1" />
+    <int name="98989898_c0_skin12" value="1" />
+    <int name="98989898_c0_skin13" value="1" />
+    <int name="98989898_c_Necromancer_skill_1_unlock" value="1" />
+    <string name="98989898_c12_unlock">True</string>
+    <string name="98989898_c23_unlock">True</string>
+    <string name="98989898_p19_unlock">True</string>
+    <string name="has_read_announcement_list_new">ae57f1e5-c792-452f-bd21-d472467a4838</string>
+    <int name="98989898_sk_wish" value="1" />
+    <int name="98989898_furniture_pet_food_level" value="5" />
+    <int name="98989898_c4_skin9" value="1" />
+    <string name="98989898_p41_unlock">True</string>
+    <string name="98989898_p20_unlock">True</string>
+    <int name="98989898_c21_level" value="7" />
+    <string name="98989898_c7_unlock">True</string>
+    <int name="98989898_last_play_time" value="9308" />
+    <int name="98989898_c34_level" value="7" />
+    <int name="98989898_c_Knight_skill_1_unlock" value="1" />
+    <int name="98989898_c_Engineer_skill_0_unlock" value="1" />
+    <int name="98989898_gems" value="82813" />
+    <int name="98989898_c4_skin2" value="1" />
+    <int name="98989898_c32_skin3" value="1" />
+    <int name="98989898_c4_skin1" value="1" />
+    <int name="98989898_c32_skin2" value="1" />
+    <int name="98989898_c4_skin4" value="1" />
+    <int name="98989898_c32_skin1" value="1" />
+    <int name="98989898_c4_skin3" value="1" />
+    <int name="98989898_c32_skin0" value="1" />
+    <int name="98989898_c4_skin6" value="1" />
+    <int name="98989898_c4_skin5" value="1" />
+    <int name="98989898_sk_duoshou" value="1" />
+    <int name="98989898_c4_skin8" value="1" />
+    <int name="98989898_c4_skin7" value="1" />
+    <int name="98989898_c4_skin0" value="1" />
+    <int name="98989898_c32_skin5" value="1" />
+    <int name="98989898_c32_skin4" value="1" />
+    <int name="98989898_has_monsrise_data" value="1" />
+    <string name="open_effect">True</string>
+    <string name="last_chilly_uid">98989898</string>
+    <int name="98989898_c_Officer_skill_0_unlock" value="1" />
+    <int name="98989898_c33_level" value="7" />
+    <int name="98989898_c26_level" value="7" />
+    <string name="98989898_p31_unlock">True</string>
+    <string name="98989898_p30_unlock">True</string>
+    <string name="98989898_p36_unlock">True</string>
+    <int name="98989898_furniture_chest" value="1" />
+    <int name="98989898_c_Engineer_skill_1_unlock" value="1" />
+    <int name="98989898_c_Miner_skill_1_unlock" value="1" />
+    <int name="98989898_c_Transcendent_skill_0_unlock" value="1" />
+    <string name="98989898_c34_unlock">True</string>
+    <int name="98989898_sk_100000" value="1" />
+    <int name="98989898_c37_skin1" value="1" />
+    <int name="98989898_c37_skin0" value="1" />
+    <string name="98989898_p3_unlock">True</string>
+    <int name="98989898_c0_skin0" value="1" />
+    <int name="98989898_c_Lancer_skill_1_unlock" value="1" />
+    <int name="98989898_c0_skin1" value="1" />
+    <string name="announcement_auto_open_today">2025-06-26</string>
+    <int name="98989898_c0_skin2" value="1" />
+    <int name="98989898_c_Warlock_skill_1_unlock" value="1" />
+    <int name="98989898_c0_skin3" value="1" />
+    <int name="98989898_c0_skin4" value="1" />
+    <int name="98989898_c0_skin5" value="1" />
+    <int name="98989898_c0_skin6" value="1" />
+    <int name="98989898_c_Taoist_skill_0_unlock" value="1" />
+    <int name="98989898_c0_skin7" value="1" />
+    <int name="98989898_c0_skin8" value="1" />
+    <int name="98989898_c0_skin9" value="1" />
+    <string name="98989898_c1_unlock">True</string>
+    <string name="98989898_p25_unlock">True</string>
+    <string name="98989898_p8_unlock">True</string>
+    <int name="98989898_c1_skin2" value="1" />
+    <int name="98989898_c_Fighter_skill_0_unlock" value="1" />
+    <int name="98989898_c1_skin3" value="1" />
+    <int name="98989898_c1_skin0" value="1" />
+    <int name="98989898_c1_skin1" value="1" />
+    <int name="98989898_c1_skin8" value="1" />
+    <int name="98989898_c1_skin9" value="1" />
+    <int name="98989898_sk_irobot" value="1" />
+    <int name="98989898_c1_skin6" value="1" />
+    <int name="98989898_c_Ranger_skill_2_unlock" value="1" />
+    <int name="98989898_c1_skin7" value="1" />
+    <int name="98989898_c1_skin4" value="1" />
+    <int name="98989898_c1_skin5" value="1" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <string name="98989898_c28_unlock">True</string>
+    <int name="98989898_sk_SKback" value="1" />
+    <string name="98989898_c17_unlock">True</string>
+    <int name="98989898_c25_level" value="7" />
+    <int name="98989898_c_SwordMaster_skill_0_unlock" value="1" />
+    <string name="98989898_p12_unlock">True</string>
+    <int name="98989898_c10_skin22" value="1" />
+    <int name="98989898_c6_skin8" value="1" />
+    <int name="98989898_c6_skin7" value="1" />
+    <int name="98989898_c10_skin20" value="1" />
+    <int name="98989898_c6_skin9" value="1" />
+    <int name="98989898_c10_skin21" value="1" />
+    <string name="98989898_game_play_time">120</string>
+    <int name="98989898_c10_skin5" value="1" />
+    <int name="98989898_c_Envoy_skill_0_unlock" value="1" />
+    <int name="98989898_c10_skin4" value="1" />
+    <int name="98989898_c5_skin19" value="1" />
+    <int name="98989898_c10_skin7" value="1" />
+    <int name="98989898_sk_jinkela" value="1" />
+    <int name="98989898_c10_skin6" value="1" />
+    <int name="98989898_c10_skin9" value="1" />
+    <int name="98989898_c10_skin8" value="1" />
+    <int name="98989898_c6_skin4" value="1" />
+    <int name="98989898_c10_skin19" value="1" />
+    <int name="98989898_c6_skin3" value="1" />
+    <int name="98989898_c6_skin6" value="1" />
+    <int name="98989898_c6_skin5" value="1" />
+    <int name="98989898_c6_skin0" value="1" />
+    <int name="98989898_c10_skin1" value="1" />
+    <int name="98989898_c10_skin15" value="1" />
+    <int name="98989898_c10_skin0" value="1" />
+    <int name="98989898_c10_skin16" value="1" />
+    <int name="98989898_c6_skin2" value="1" />
+    <int name="98989898_c10_skin3" value="1" />
+    <int name="98989898_c10_skin17" value="1" />
+    <int name="98989898_sk_qdkys" value="1" />
+    <int name="98989898_c6_skin1" value="1" />
+    <int name="98989898_c10_skin2" value="1" />
+    <int name="98989898_c10_skin18" value="1" />
+    <int name="98989898_c9_skin24" value="1" />
+    <int name="98989898_c10_skin11" value="1" />
+    <int name="98989898_c9_skin25" value="1" />
+    <int name="98989898_c10_skin12" value="1" />
+    <int name="98989898_c9_skin22" value="1" />
+    <int name="98989898_c10_skin13" value="1" />
+    <int name="98989898_c9_skin23" value="1" />
+    <int name="98989898_c10_skin14" value="1" />
+    <int name="LOCALta_properties_init" value="1" />
+    <int name="98989898_c5_skin20" value="1" />
+    <int name="98989898_c9_skin20" value="1" />
+    <int name="98989898_c5_skin21" value="1" />
+    <int name="98989898_c9_skin21" value="1" />
+    <int name="98989898_c10_skin10" value="1" />
+    <int name="98989898_c5_skin22" value="1" />
+    <int name="98989898_c5_skin23" value="1" />
+    <string name="LOCALlast_pid">110359511</string>
+    <int name="98989898_c7_level" value="7" />
+    <int name="98989898_c9_skin26" value="1" />
+    <int name="98989898_c14_skin10" value="1" />
+    <int name="98989898_c14_skin12" value="1" />
+    <int name="98989898_c18_level" value="7" />
+    <int name="98989898_c14_skin11" value="1" />
+    <int name="98989898_c14_skin14" value="1" />
+    <int name="98989898_c14_skin13" value="1" />
+    <int name="98989898_c14_skin16" value="1" />
+    <int name="98989898_c14_skin15" value="1" />
+    <int name="98989898_c14_skin18" value="1" />
+    <int name="98989898_c14_skin17" value="1" />
+    <int name="98989898_c9_skin13" value="1" />
+    <string name="98989898_p23_unlock">True</string>
+    <int name="98989898_c9_skin14" value="1" />
+    <int name="98989898_c14_skin19" value="1" />
+    <int name="98989898_c9_skin11" value="1" />
+    <int name="98989898_c31_skin0" value="1" />
+    <int name="98989898_c9_skin12" value="1" />
+    <int name="98989898_c31_skin2" value="1" />
+    <int name="98989898_c5_skin10" value="1" />
+    <int name="98989898_c9_skin10" value="1" />
+    <int name="98989898_c31_skin1" value="1" />
+    <int name="98989898_c31_skin4" value="1" />
+    <int name="98989898_c31_skin3" value="1" />
+    <int name="98989898_c5_skin13" value="1" />
+    <int name="98989898_c31_skin6" value="1" />
+    <int name="98989898_c5_skin14" value="1" />
+    <int name="98989898_c31_skin5" value="1" />
+    <string name="98989898_p6_unlock">True</string>
+    <int name="98989898_c5_skin11" value="1" />
+    <int name="98989898_c9_skin19" value="1" />
+    <int name="98989898_c5_skin12" value="1" />
+    <int name="98989898_c5_skin17" value="1" />
+    <int name="98989898_c9_skin17" value="1" />
+    <int name="98989898_c11_level" value="7" />
+    <int name="98989898_c5_skin18" value="1" />
+    <int name="98989898_c9_skin18" value="1" />
+    <int name="98989898_c5_skin15" value="1" />
+    <int name="98989898_c9_skin15" value="1" />
+    <int name="98989898_c5_skin16" value="1" />
+    <int name="98989898_c9_skin16" value="1" />
+    <string name="98989898_p39_unlock">True</string>
+    <int name="98989898_c29_level" value="7" />
+    <int name="98989898_c15_skin0" value="1" />
+    <int name="98989898_c15_skin1" value="1" />
+    <int name="98989898_c15_skin2" value="1" />
+    <int name="98989898_c15_skin3" value="1" />
+    <int name="98989898_c15_skin4" value="1" />
+    <int name="98989898_c15_skin5" value="1" />
+    <int name="98989898_c15_skin6" value="1" />
+    <string name="98989898_c26_unlock">True</string>
+    <int name="98989898_c_TrapMaster_skill_2_unlock" value="1" />
+    <int name="98989898_c15_skin7" value="1" />
+    <string name="98989898_c15_unlock">True</string>
+    <int name="98989898_c15_skin8" value="1" />
+    <int name="98989898_c15_skin9" value="1" />
+    <int name="98989898_c_Priest_skill_1_unlock" value="1" />
+    <string name="98989898_has_save_date">False</string>
+    <int name="98989898_c_Paladin_skill_1_unlock" value="1" />
+    <string name="98989898_c37_unlock">True</string>
+    <int name="98989898_c13_level" value="7" />
+    <int name="98989898_c16_level" value="7" />
+    <int name="98989898_c_Airbender_skill_0_unlock" value="1" />
+    <int name="98989898_c8_skin0" value="1" />
+    <string name="98989898_account_enter_game_count_today">9308_1</string>
+    <int name="98989898_c8_skin3" value="1" />
+    <int name="98989898_c8_skin4" value="1" />
+    <int name="98989898_c8_skin1" value="1" />
+    <string name="98989898_p34_unlock">True</string>
+    <int name="98989898_c8_skin2" value="1" />
+    <int name="98989898_c8_skin7" value="1" />
+    <int name="98989898_c8_skin8" value="1" />
+    <int name="98989898_c8_skin5" value="1" />
+    <int name="98989898_c8_skin6" value="1" />
+    <string name="98989898_check_unlock_work_shop_time">638641449904720000</string>
+    <int name="98989898_c8_skin9" value="1" />
+    <int name="98989898_c0_level" value="8" />
+    <string name="98989898_c30_unlock">True</string>
+    <int name="98989898_c_Shooter_skill_0_unlock" value="1" />
+    <int name="98989898_c17_skin0" value="1" />
+    <int name="98989898_c_Lancer_skill_0_unlock" value="1" />
+    <int name="98989898_furniture_book_level" value="5" />
+    <int name="98989898_achievement_character" value="15" />
+    <int name="98989898_c0_skin30" value="1" />
+    <int name="98989898_c_Necromancer_skill_0_unlock" value="1" />
+    <string name="98989898_c5_unlock">True</string>
+    <int name="98989898_c2_level" value="8" />
+    <int name="98989898_c_Mage_skill_1_unlock" value="1" />
+    <int name="98989898_c0_skin29" value="1" />
+    <int name="98989898_c_Warlock_skill_2_unlock" value="1" />
+    <int name="98989898_c0_skin25" value="1" />
+    <int name="98989898_c0_skin26" value="1" />
+    <int name="98989898_c0_skin27" value="1" />
+    <int name="98989898_c0_skin28" value="1" />
+    <int name="98989898_c2_skin25" value="1" />
+    <int name="98989898_c2_skin26" value="1" />
+    <int name="98989898_c2_skin23" value="1" />
+    <int name="98989898_c2_skin24" value="1" />
+    <int name="98989898_c2_skin21" value="1" />
+    <int name="98989898_c2_skin22" value="1" />
+    <int name="98989898_c_Viking_skill_1_unlock" value="1" />
+    <int name="98989898_c2_skin20" value="1" />
+    <int name="98989898_c9_skin4" value="1" />
+    <int name="98989898_c9_skin5" value="1" />
+    <string name="local_announcement_list">ae57f1e5-c792-452f-bd21-d472467a4838%2C6605b903-0526-401d-a454-50fe3c0669d4%2Cb44b71fd-a9ea-436e-979f-5f2fde9d327f%2C7757bd20-162c-47b0-accb-bb9814366ce6</string>
+    <int name="98989898_c9_skin6" value="1" />
+    <int name="98989898_c9_skin7" value="1" />
+    <int name="98989898_c13_skin9" value="1" />
+    <int name="98989898_c9_skin8" value="1" />
+    <int name="98989898_c9_skin9" value="1" />
+    <int name="98989898_c13_skin4" value="1" />
+    <string name="98989898_complete_game_w2_5"></string>
+    <int name="98989898_c13_skin3" value="1" />
+    <string name="98989898_complete_game_w2_6"></string>
+    <int name="98989898_c13_skin2" value="1" />
+    <string name="98989898_complete_game_w2_3"></string>
+    <int name="98989898_c13_skin1" value="1" />
+    <string name="98989898_complete_game_w2_4"></string>
+    <int name="98989898_c13_skin8" value="1" />
+    <int name="98989898_c13_skin7" value="1" />
+    <int name="98989898_c13_skin6" value="1" />
+    <int name="98989898_c13_skin5" value="1" />
+    <int name="98989898_c2_skin18" value="1" />
+    <int name="98989898_c13_skin0" value="1" />
+    <string name="98989898_complete_game_w2_1"></string>
+    <int name="98989898_c2_skin19" value="1" />
+    <string name="98989898_complete_game_w2_2"></string>
+    <int name="98989898_c2_skin16" value="1" />
+    <int name="98989898_c2_skin17" value="1" />
+    <string name="98989898_complete_game_w2_0"></string>
+    <int name="98989898_c2_skin14" value="1" />
+    <int name="98989898_c2_skin15" value="1" />
+    <string name="98989898_c10_unlock">True</string>
+    <int name="98989898_c2_skin12" value="1" />
+    <int name="98989898_c2_skin13" value="1" />
+    <int name="98989898_c2_skin10" value="1" />
+    <string name="98989898_c21_unlock">True</string>
+    <int name="98989898_c2_skin11" value="1" />
+    <int name="98989898_c_Assassin_skill_2_unlock" value="1" />
+    <string name="98989898_p17_unlock">True</string>
+    <int name="98989898_c9_skin0" value="1" />
+    <int name="98989898_c9_skin1" value="1" />
+    <int name="98989898_c9_skin2" value="1" />
+    <int name="98989898_c9_skin3" value="1" />
+    <int name="98989898_c_Doctor_skill_0_unlock" value="1" />
+    <int name="98989898_c_Robot_skill_0_unlock" value="1" />
+    <int name="98989898_c_Alchemist_skill_1_unlock" value="1" />
+    <int name="98989898_c14_skin2" value="1" />
+    <int name="98989898_c14_skin3" value="1" />
+    <int name="98989898_c14_skin0" value="1" />
+    <int name="98989898_c14_skin1" value="1" />
+    <int name="98989898_c4_level" value="7" />
+    <int name="98989898_c14_skin6" value="1" />
+    <int name="98989898_c14_skin7" value="1" />
+    <int name="98989898_c_Taoist_skill_2_unlock" value="1" />
+    <int name="98989898_c14_skin4" value="1" />
+    <int name="98989898_c14_skin5" value="1" />
+    <int name="98989898_c14_skin8" value="1" />
+    <int name="98989898_c14_skin9" value="1" />
+    <string name="98989898_c3_unlock">True</string>
+    <string name="98989898_p45_unlock">True</string>
+    <string name="98989898_p1_unlock">True</string>
+    <int name="98989898_c5_level" value="8" />
+    <int name="98989898_c_Ranger_skill_0_unlock" value="1" />
+    <int name="98989898_sk_newhall" value="1" />
+    <int name="98989898_c10_level" value="8" />
+    <int name="98989898_c_CostumePrince_skill_1_unlock" value="1" />
+    <int name="98989898_c_Elves_skill_0_unlock" value="1" />
+    <int name="98989898_c23_skin10" value="1" />
+    <int name="98989898_c9_level" value="7" />
+    <int name="98989898_c23_skin11" value="1" />
+    <int name="98989898_c_Airbender_skill_2_unlock" value="1" />
+    <int name="98989898_c6_level" value="7" />
+    <string name="98989898_p28_unlock">True</string>
+    <int name="98989898_c_Druid_skill_1_unlock" value="1" />
+    <int name="NeedAutoLogin" value="1" />
+    <int name="98989898_show_post_man" value="0" />
+    <int name="98989898_c11_skin9" value="1" />
+    <int name="98989898_c11_skin8" value="1" />
+    <int name="98989898_c11_skin7" value="1" />
+    <int name="98989898_c11_skin6" value="1" />
+    <int name="98989898_c11_skin5" value="1" />
+    <int name="98989898_c11_skin4" value="1" />
+    <int name="98989898_c11_skin3" value="1" />
+    <int name="98989898_c11_skin2" value="1" />
+    <int name="98989898_c_Vampire_skill_1_unlock" value="1" />
+    <int name="98989898_c11_skin1" value="1" />
+    <int name="98989898_c11_skin0" value="1" />
+    <int name="98989898_c7_skin10" value="1" />
+    <int name="98989898_c8_level" value="8" />
+    <int name="98989898_c7_skin11" value="1" />
+    <int name="98989898_c7_skin12" value="1" />
+    <int name="98989898_c7_skin17" value="1" />
+    <int name="98989898_c7_skin18" value="1" />
+    <int name="first_active" value="1" />
+    <int name="98989898_c7_skin19" value="1" />
+    <int name="98989898_c7_skin13" value="1" />
+    <int name="98989898_c7_skin14" value="1" />
+    <int name="98989898_c7_skin15" value="1" />
+    <int name="98989898_c7_skin16" value="1" />
+    <int name="98989898_c_Werewolf_skill_1_unlock" value="1" />
+    <int name="has_setLanguage" value="1" />
+    <string name="LOCALfire_gene_used_record2">5%2C1</string>
+    <int name="98989898_c12_skin1" value="1" />
+    <int name="98989898_c12_skin0" value="1" />
+    <int name="98989898_c12_skin7" value="1" />
+    <int name="98989898_c12_skin6" value="1" />
+    <int name="98989898_c12_skin9" value="1" />
+    <int name="98989898_c12_skin8" value="1" />
+    <int name="98989898_c12_skin3" value="1" />
+    <int name="98989898_c12_skin2" value="1" />
+    <int name="98989898_c12_skin5" value="1" />
+    <int name="98989898_c12_skin4" value="1" />
+</map>
