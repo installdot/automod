@@ -10,7 +10,9 @@ TEMPLATE_FILE="$PREF_DIR/com.ChillyRoom.DungeonShooter.v2.playerprefs.txt"
 ACC_FILE="$APP_DIR/acc.txt"
 DONE_FILE="$APP_DIR/done.txt"
 TMP_FILE="$APP_DIR/.acc_tmp.txt"
-
+# ==== 6. Close and Relaunch ====
+echo "[*] Killing app..."
+am force-stop com.ChillyRoom.DungeonShooter
 clear
 
 # ==== 1. Pick random account from acc.txt ====
